@@ -1,29 +1,26 @@
-<div align="center">
+<div align="center">  
   
-  ### Oi pessoal, eu me chamo Bruna Martins! 👋
+  ### Hey, I am Bruna Martins!:v:
 
-
-  <a href="https://www.linkedin.com/in/brunacbmartins/" target="_blank"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://www.instagram.com/brunacarolinaa/" target="_blank"><img src="https://img.shields.io/badge/@brunacarolinaa%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a> <img src="https://img.shields.io/badge/Bl4CkMartins%20-%23107C10.svg?&style=for-the-badge&logo=Xbox&logoColor=white"/>
-
+<a href="https://www.linkedin.com/in/brunacbmartins/" target="_blank"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://www.youtube.com/channel/UCv41lBGFdJg21lmYiCZDNQAube" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a> <a href="https://www.instagram.com/brunacarolinaa/" target="_blank"><img src="https://img.shields.io/badge/instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 
   <p>
-  Seja bem vindo(a) ao meu GitHub! <br>
-  Recém formada em Análise e Desenvolvimento de Sistemas, busco evoluir como Front-end Developer e me aventurando em mobile também.
-  Bom, aqui estão um pouco das coisas que aprendi em cursos, e na faculdade! Fique a vontade. </p>
+  :palm_tree: Welcome to my GitHub! :palm_tree: <br>
+  Recently graduated in Systems Analysis and Development, I seek to evolve as Front-End Developer and venturing into mobile as well. Well, here are some of the things I learned in courses, applying for job vacancies, and during college! Feel free to give me tips and explore my repositories. </p>
 
 
-  ## Tecnologias e Tools
-  <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>  <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+  ## :computer: Techs and Tools :computer:
+  <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>  <img src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>  <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 
 
-  ## Tecnologias em estudo
-  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/> <img src="https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white"/> 
+  ## :dart: Techs that I am studying :dart:
+  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white"/> 
 
 
-  ## Tecnologias que quero aprender
-  <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/> <img src= "https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
+  ## :pushpin: Techs that I want to learn :pushpin:
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src= "https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
 
-  <i>Críticas construtivas são bem vindas!</i> 😊
+Constructive criticism is welcome!</i>:ok_hand:
 </div>
 
 ![ViewCount](https://views.whatilearened.today/views/github/brunacbmartins/views.svg)
